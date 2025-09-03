@@ -6,7 +6,7 @@ Supplemental image files, such as "question_2.1.png" and "question_2.1.png", are
 
 ## 🚀 Setup
 
-The code has been tested on Google Colab -- it runs as is with no additional setup.  You are encouraged to write code there.  
+The code has been tested on **Google Colab** -- it runs as is with no additional setup.  You are encouraged to write code there.  
 
 However, if you like to use your local platform, you are more than welcome to do so.
 But make sure that it is at least Python version 3.8. If not, the easiest thing to do is to make sure you have at least 3GB free on your computer and then to head over to (https://www.anaconda.com/download/) and install the Python 3 version of Anaconda. It will work on any operating system.
