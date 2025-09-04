@@ -4,7 +4,7 @@ The base code is a notebook file, "hw2_word_vectors.ipynb".  Your task is to fil
 
 Supplemental image files, such as "question_2.1.png" and "question_2.1.png", are placed in the folder "imgs".
 
-## :rocket Setup
+## 🚀 Setup
 
 The code has been tested on **Google Colab** -- it runs as is with no additional setup.  You are encouraged to write code there.  
 
