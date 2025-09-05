@@ -1,4 +1,4 @@
-# :white_check_mark: CSC 583 HW#3-1 Setup Instructions
+# :bouquet: CSC 583 HW#3-1 Setup Instructions
 
 The base code is a notebook file, **"hw3-1_rnn_textclassification.ipynb"**.  Your task is to fill in the sections marked '# TODO' and answer questions marked "Write your answer here".  You must also write your name, course number etc. at the top of the file.
 
