@@ -9,6 +9,7 @@ Following assignments are planned so far (as of Sept 2025).
 - Homework #0: :robot: (Quiz) Linguistic essentials
 - Homework #1: :alien: Text preprocessing
 - Homework #2: :seedling: Embeddings
+- Homework #2-1: :deciduous_tree: Vectors Embeddings and RAG
 - Homework #3-0: :fire: PyTorch
 - Homework #3-1: :bouquet: Text Classification
 - Homework #4: :dog: Ngrams and LM
