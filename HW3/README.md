@@ -1,6 +1,6 @@
-# :deciduous_tree: CSC 583 HW#2-1 Setup Instructions
+# :deciduous_tree: CSC 583 HW#3 Setup Instructions
 
-The start-up code is a notebook file, **"hw2_word_vectors.ipynb"**.  Your task is to fill in the sections marked '# TODO' (1) through (5). You must also write your name, course number etc. at the top of the file.
+The start-up code is a notebook file, **"hw3_vector_embeddings_starter.ipynb"**.  Your task is to fill in the sections marked '# TODO' (1) through (5). You must also write your name, course number etc. at the top of the file.
 
 Input data files are placed under the subdirectory 'data'.
 
