@@ -12,7 +12,7 @@ Following assignments are planned so far (as of Sept 2025).
 - Homework #3: :deciduous_tree: Vectors Embeddings and RAG
 - Homework #4: :dog: Ngrams and LM
 - Homework #5: :snail: Text summarization/generation
-- Default Final Project: :jack_o_lantern: Text summarization/generation
+- Default Final Project: :jack_o_lantern: Agentic AI and RAG, plus more
 
 There will also be a **Final Project** due at the end of the course.
 
